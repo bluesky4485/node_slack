@@ -4,3 +4,4 @@
 
 >需要修改2个地方，一个是webhookurl，另外一个是req中的token，目前就检查了下token作为有效请求的判断。
 
+直接npm install即可下载依赖库，然后node app.js 即可运行。
